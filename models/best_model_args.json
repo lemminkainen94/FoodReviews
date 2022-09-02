@@ -1,0 +1,8 @@
+{
+	"lr": 0.00005,
+	"batch_size": 32, 
+	"final_dropout": 0.2,
+	"max_len": 128,
+	"model_name": "yangheng/deberta-v3-base-absa-v1.1",
+	"in_model": "models/transformer_deberta-v3-base-absa-v1.1_32_5e-05.pt"
+}
